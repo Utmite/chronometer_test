@@ -83,7 +83,7 @@ export default {
 
                 audio = new Audio()
 
-                audio.src = "/alarma.mp3"
+                audio.src = "/chronometer_test/alarma.mp3"
                 
                 chronometer_info = setInterval(() => {
 
