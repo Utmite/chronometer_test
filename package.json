@@ -5,6 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "saved": "git add . && git commit -m 'bot' && git push -u origin main",
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {

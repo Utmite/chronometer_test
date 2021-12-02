@@ -1,7 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <section class="logo flex justify-center items-center my-4">
+      <img alt="timer logo" src="../assets/icon.png">
+    </section>
+    <HelloWorld msg="¡Bienvenido a Timer App!"/>
   </div>
 </template>
 
